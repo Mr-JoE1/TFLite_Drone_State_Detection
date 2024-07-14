@@ -253,8 +253,3 @@ This guide covers the following steps to train and deploy a drone state detectio
 4. **Define and Train the Model:** Create and train a neural network model using TensorFlow/Keras.
 5. **Convert the Model to TensorFlow Lite:** Convert the trained model to TensorFlow Lite format for deployment on microcontrollers.
 6. **Deploy the Model to ESP32 Using PlatformIO:** Set up a PlatformIO project, include the TensorFlow Lite library, and write the Arduino sketch to run inference on the ESP32.
-
-By following these steps, you can successfully train a model to detect drone states using IMU data and deploy it on an ESP32.
-```
-
-You can save this guide as a `README.md` file. It provides a comprehensive overview of the entire process, including all necessary code snippets.
