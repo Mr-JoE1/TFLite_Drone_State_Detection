@@ -28,10 +28,8 @@ The model is a neural network trained using TensorFlow/Keras. It takes as input 
 - LSM9DS1 IMU sensor
 - TensorFlow Lite for Microcontrollers library
 
-### Steps
+### Build your own model using my dataset
 
 1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/your-repo/drone-state-detection.git
-   cd drone-state-detection
-
+2. **cd to build_your_model folder**
+3. **Follow step at How_To.md**
